@@ -1,5 +1,5 @@
 Before running Processing, please also change the 'String path' of music file as the one in your computer.
-  String path = "C:\\Users\\Lenovo\\Documents\\TUE Master\\Creative Programming\\C2\\1113\\challenge2-zhiping zhang\\bubblerealtest\\1.mp3";
+  String path = "C:..\\bubblerealtest\\1.mp3";
 
 Before running the Processing, please make sure your computer has install these packages in your computer:
 import javafx.scene.media.Media;
@@ -14,3 +14,4 @@ Before running the Aduino code, please make sure your computer has install the A
 
 Thanks for your consideration
 Enjoy the BubbleBreath!
+
